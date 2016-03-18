@@ -1,0 +1,16 @@
+approach
+--> need a pre processing step initially to reduce images to same size
+
+
+1. sky - blue
+2. sea blue
+3. road- black/grey
+4. tree - green+brown?
+5. mountain- green, brown , black - shape 
+6. humans - brown+skin-> shape or just proportion of size
+7. sand- beach-whiteiish, desert -brown
+8. buildings-  verticle rectangle , same colour 
+9. snow- white
+10. birds- blacks
+11 car - horizontal , rectanglish , same colour - generally dar shade. with a road present ... and tryes -> black circle with holes.
+
